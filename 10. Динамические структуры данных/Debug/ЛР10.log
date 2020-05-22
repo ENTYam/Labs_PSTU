@@ -1,0 +1,3 @@
+﻿D:\VS\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (лаба 11.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  лаба 11.cpp
+c1xx : fatal error C1083: Не удается открыть файл источник: лаба 11.cpp: No such file or directory,
